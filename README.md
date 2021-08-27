@@ -50,4 +50,4 @@ As the search ranking for your business increases, your advertising costs decrea
   *  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
   * background-color: #2589bd    
 
-![The mockup](./Develop/assets/images/README.png)# Grow-Your-Business
+![The mockup](./assets/images/README.png)#Grow-Your-Business
