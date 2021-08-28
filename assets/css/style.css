@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* apply styles to header*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,6 +51,7 @@ p {
     font-size: 16px;
 }
 
+/* hero style start*/
 .hero {
     height: 800px;
     width: 100%;
@@ -58,6 +60,7 @@ p {
     background-size: cover;
     background-position: center;
 }
+/*hero style end*/
 
 .float-left {
     float: left;
@@ -75,6 +78,7 @@ p {
     margin-left: 20px;
 }
 
+/*apply styles to beneifits*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -101,6 +105,7 @@ p {
     max-width: 150px;
 }
 
+/*apply styles to search-engine-optimization*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -110,6 +115,7 @@ p {
     color: #ffffff;
 }
 
+/*apply styles to online-reputation-management*/
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -119,6 +125,7 @@ p {
     color: #ffffff;
 }
 
+/*apply styles to social-media-marketing*/
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -141,6 +148,7 @@ p {
     font-size: 36px;
 }
 
+/*apply styles to footer*/
 .footer {
     padding: 30px;
     clear: both;
